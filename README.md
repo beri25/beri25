@@ -3,5 +3,5 @@
   für meine Arbeit interessieren :)
 - 🧩 Im Moment lerne ich HTML und CSS, da Webprogramming mich sehr interessiert. JavaScript und C++ und vieles mehr steht aber auch noch auf meiner Bucket-List.
 - 🗣 Pronouns: She/They
-- 🛫 Fun fact: Meine Traumreise ist Kyoto in Japan!
+- 🛫 Fun fact: Meine Traumreise ist ein Flug nach Kyoto in Japan!
 
