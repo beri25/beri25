@@ -24,5 +24,5 @@ Ich bin aktuell Azubi zur Fachinformatikerin f√ºr Anwendungsentwicklung mit gro√
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dein-benutzername&show_icons=true&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beri25&show_icons=true&theme=blue-green)
 
