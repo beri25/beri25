@@ -1,6 +1,6 @@
 # Hallo, ich bin Berfin! 👋
 
-Ich bin Auszubildender (Azubi) und angehender Softwareentwickler 😎
+Ich bin Auszubildende und angehende Softwareentwicklerin 😎
 
 ---
 
