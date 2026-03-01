@@ -15,7 +15,7 @@ Ich bin Auszubildende und angehende Softwareentwicklerin 😎
 
 ## 🧠 Skills & Erfahrungen
 
-Ich bin kein Experte, aber mit folgenden Technologien habe ich bereits praktische Erfahrung gesammelt:
+Mit folgenden Technologien habe ich bereits praktische Erfahrung gesammelt:
 
 - **Sprachen & Datenformate:**  
   `Python`, `Java`, `JavaScript`, `JSON`, `YAML`, `Markdown`
