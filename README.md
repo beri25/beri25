@@ -36,12 +36,7 @@ Mit folgenden Technologien habe ich bereits praktische Erfahrung gesammelt:
 
 ## 📫 Kontakt
 
-- E-Mail: fffffck no...not yet
-- GitHub: [github.com/dein-benutzername](https://github.com/beri25)
-
----
-
-> *„Ich schwöre, der Code hat gestern noch funktioniert.“* 🤡💻
+- E-Mail: (noch nicht hinterlegt)
 
 ---
 
